@@ -102,4 +102,4 @@ CHROMA_PATH=./chroma_db
 
 ## 👤 Author
 
-**Sathwik Guddheti**
+**Sathwik096**
